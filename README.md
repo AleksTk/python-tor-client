@@ -1,4 +1,4 @@
-# Tor Client
+# Python Tor Client
 
 Enables to run http requests over Tor.
 
